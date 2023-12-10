@@ -1,5 +1,7 @@
 # Parmar_Meet_Portfolio_main
-MY main repo crashed i am  so sorry
+MY main repo crashed i am  so sorry so i had to make new one.  i am  so sorry
+
+![Parmar_Meet_Portfolio_main](./images/name)
 
 
 MY PORTFOLIO
